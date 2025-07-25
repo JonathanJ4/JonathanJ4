@@ -1,18 +1,6 @@
 ## Hi there 👋
 
-<!--
-**JonathanJ4/JonathanJ4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<h1 align="center">Hi 👋, I'm Jonathan</h1>
-
-## 🧑‍💻 About Me
-I'm currently pursuing a BSc (Hons) in Computer Science at Toronto Metropolitan University, with a focus on **Data Engineering**, **Cloud Technologies**, and **Full-Stack Development**. I enjoy working on real-world projects that involve building data pipelines, dashboards, and AI-powered tools.
-
-I'm passionate about learning, problem-solving, and creating things that make a difference. Currently exploring how to bring analytics and automation together through Python, MongoDB, and cloud services like AWS ☁️.
-
----
 
 ## 🔧 Languages & Tools
 

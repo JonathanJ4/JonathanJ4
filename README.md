@@ -1,7 +1,7 @@
 <h1 align="center">Hi !!👋, I'm Jonathan</h1>
 
-## 🧑‍💻 About Me
-Stop stalking me XD
+
+
 
 ---
 

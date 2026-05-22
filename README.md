@@ -1,9 +1,5 @@
 <h1 align="center">Hi !!👋, I'm Jonathan</h1>
 
-
-
----
-
 ## 🔧 Languages & Tools
 
 ### Programming Languages

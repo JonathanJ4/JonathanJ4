@@ -1,6 +1,6 @@
 <h1 align="center">Hi !!👋, I'm Jonathan</h1>
 
-# I'm currently pursuing a BSc (Hons) in Computer Science at Toronto Metropolitan University, with a focus on Data Engineering, Cloud Technologies, and Full-Stack Development. I enjoy working on real-world projects that involve building data pipelines, dashboards, and AI-powered tools.
+### I'm currently pursuing a BSc (Hons) in Computer Science at Toronto Metropolitan University, with a focus on Data Engineering, Cloud Technologies, and Full-Stack Development. I enjoy working on real-world projects that involve building data pipelines, dashboards, and AI-powered tools.
 
 ## 🔧 Languages & Tools
 

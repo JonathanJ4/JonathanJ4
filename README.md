@@ -1,6 +1,6 @@
 <h1 align="center">Hi !!👋, I'm Jonathan</h1>
 
-### I'm currently pursuing a BSc (Hons) in Computer Science at Toronto Metropolitan University, with a focus on AI/ML and Software Engineering. I enjoy working on cool side projects and messing around with tech. I'm a little FISH in an ocean full of sharks and whales tryna survive X_X
+### I'm currently pursuing a BSc (Hons) in Computer Science at Toronto Metropolitan University, with a focus on AI/ML and Software Engineering. I enjoy working on cool side projects and messing around with tech. I'm a little FISH in an ocean full of sharks tryna survive X_X
 
 ## 🔧 Languages & Tools
 

@@ -1,5 +1,5 @@
 ```
-┌──(yourname㉿github)-[~/exploring]
+┌──(Jonathan㉿github)-[~/exploring]
 └─$ ./status
 
   E X P L O R I N G   T E C H

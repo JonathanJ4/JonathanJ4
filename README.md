@@ -1,4 +1,4 @@
-```
+
  ________
 < Hello There :)  >
  --------
@@ -8,7 +8,7 @@
                 ||----w |
                 ||     ||
 
-```
+
 ## 🔧 Languages & Tools
 
 ### Programming Languages

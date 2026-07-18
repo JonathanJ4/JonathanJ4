@@ -1,8 +1,13 @@
 ```
- 
- Hello There :) I'm Jonathan 
+┌──(yourname㉿github)-[~/exploring]
+└─$ ./status
 
+  E X P L O R I N G   T E C H
+
+  > learning • building • experimenting
+  > current mode: curious
 ```
+
 
 ## 🔧 Languages & Tools
 

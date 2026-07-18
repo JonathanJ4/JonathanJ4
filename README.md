@@ -1,12 +1,7 @@
 ```
  
  Hello There :) I'm Jonathan 
- --------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
+
 ```
 
 ## 🔧 Languages & Tools

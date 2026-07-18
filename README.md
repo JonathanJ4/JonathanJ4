@@ -8,10 +8,6 @@
                 ||----w |
                 ||     ||
 
-
-  > Building questionable ideas with good code.
-  > Currently learning: Rust, AI and distributed systems.
-  > Status: probably debugging.
 ```
 ## 🔧 Languages & Tools
 

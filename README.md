@@ -1,7 +1,22 @@
 <h1 align="center">Hi !!👋, I'm Jonathan</h1>
 
-### I'm currently pursuing a BSc (Hons) in Computer Science at Toronto Metropolitan University, with a focus on AI/ML and Software Engineering. I enjoy working on cool side projects and messing around with tech. 
 
+### I'm currently pursuing a BSc (Hons) in Computer Science at Toronto Metropolitan University, with a focus on AI/ML and Software Engineering. I enjoy working on cool side projects and messing around with tech. 
+```text
+┌──(yourname㉿github)-[~/profile]
+└─$ whoami
+
+  ██████╗ ███████╗██╗   ██╗
+  ██╔══██╗██╔════╝██║   ██║
+  ██║  ██║█████╗  ██║   ██║
+  ██║  ██║██╔══╝  ╚██╗ ██╔╝
+  ██████╔╝███████╗ ╚████╔╝
+  ╚═════╝ ╚══════╝  ╚═══╝
+
+  > Building questionable ideas with good code.
+  > Currently learning: Rust, AI and distributed systems.
+  > Status: probably debugging.
+```
 ## 🔧 Languages & Tools
 
 ### Programming Languages
